@@ -1,0 +1,3366 @@
+[
+  {
+    "question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+    "answer": "Spruce Goose",
+    "incorrect_answers": [
+      "Noah&#039;s Ark",
+      "Fat Man",
+      "Trojan Horse"
+    ]
+  },
+  {
+    "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+    "answer": "Subscriber",
+    "incorrect_answers": [
+      "Single",
+      "Secure",
+      "Solid"
+    ]
+  },
+  {
+    "question": "Who is the author of Jurrasic Park?",
+    "answer": "Michael Crichton",
+    "incorrect_answers": [
+      "Peter Benchley",
+      "Chuck Paluhniuk",
+      "Irvine Welsh"
+    ]
+  },
+  {
+    "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+    "answer": "Wax sculptures",
+    "incorrect_answers": [
+      "Designer clothing",
+      "Unreleased film reels",
+      "Vintage cars"
+    ]
+  },
+  {
+    "question": "What is the nickname of the US state of California?",
+    "answer": "Golden State",
+    "incorrect_answers": [
+      "Sunshine State",
+      "Bay State",
+      "Treasure State"
+    ]
+  },
+  {
+    "question": "The Sun rises from the North.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "What nuts are used in the production of marzipan?",
+    "answer": "Almonds",
+    "incorrect_answers": [
+      "Peanuts",
+      "Walnuts",
+      "Pistachios"
+    ]
+  },
+  {
+    "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+    "answer": "Slacking",
+    "incorrect_answers": [
+      "Smoking",
+      "Stealing",
+      "Cheating"
+    ]
+  },
+  {
+    "question": "Dihydrogen Monoxide is a dangerous chemical.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Bulls are attracted to the color red.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Which of these Marvel games was released on the Playstation 2?",
+    "answer": "Spider-Man 2",
+    "incorrect_answers": [
+      "Silver Surfer",
+      "Howard the Duck",
+      "Wolverine: Adamantium Rage"
+    ]
+  },
+  {
+    "question": "What does VR stand for?",
+    "answer": "Virtual Reality",
+    "incorrect_answers": [
+      "Very Real",
+      "Visual Recognition",
+      "Voice Recognition"
+    ]
+  },
+  {
+    "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+    "answer": "Swiss Air",
+    "incorrect_answers": [
+      "Air France",
+      "British Airways",
+      "TWA"
+    ]
+  },
+  {
+    "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+    "answer": "Medell&iacute;n",
+    "incorrect_answers": [
+      "Bogot&aacute;",
+      "Quito",
+      "Cali"
+    ]
+  },
+  {
+    "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+    "answer": "Plum",
+    "incorrect_answers": [
+      "Apple",
+      "Peach",
+      "Pear"
+    ]
+  },
+  {
+    "question": "Ping-Pong originated in England",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "When someone is inexperienced they are said to be what color?",
+    "answer": "Green",
+    "incorrect_answers": [
+      "Red",
+      "Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "question": "Which restaurant&#039;s mascot is a clown?",
+    "answer": "McDonald&#039;s",
+    "incorrect_answers": [
+      "Whataburger",
+      "Burger King",
+      "Sonic"
+    ]
+  },
+  {
+    "question": "Earth is located in which galaxy?",
+    "answer": "The Milky Way Galaxy",
+    "incorrect_answers": [
+      "The Mars Galaxy",
+      "The Galaxy Note",
+      "The Black Hole"
+    ]
+  },
+  {
+    "question": "Which of the following card games revolves around numbers and basic math?",
+    "answer": "Uno",
+    "incorrect_answers": [
+      "Go Fish",
+      "Twister",
+      "Munchkin"
+    ]
+  },
+  {
+    "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+    "answer": "Tango",
+    "incorrect_answers": [
+      "Target",
+      "Taxi",
+      "Turkey"
+    ]
+  },
+  {
+    "question": "What is the name of the company in Lethal Company?",
+    "answer": "The Company",
+    "incorrect_answers": [
+      "Planet Scrap Co.",
+      "Lethal Robotics",
+      "Gordian Shipping Co."
+    ]
+  },
+  {
+    "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+    "answer": "Print",
+    "incorrect_answers": [
+      "Digest",
+      "Look",
+      "Read"
+    ]
+  },
+  {
+    "question": "Which American president appears on a one dollar bill?",
+    "answer": "George Washington",
+    "incorrect_answers": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "Benjamin Franklin"
+    ]
+  },
+  {
+    "question": "The Lego Group was founded in 1932.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which of the following is not an Ivy League University?",
+    "answer": "Stanford",
+    "incorrect_answers": [
+      "University of Pennsylvania",
+      "Harvard",
+      "Princeton"
+    ]
+  },
+  {
+    "question": "When was the Playstation 3 released?",
+    "answer": "November 11, 2006",
+    "incorrect_answers": [
+      "January 8, 2007",
+      "December 25, 2007",
+      "July 16, 2006"
+    ]
+  },
+  {
+    "question": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+    "answer": "Cube",
+    "incorrect_answers": [
+      "Sphere",
+      "Cylinder",
+      "Pyramid"
+    ]
+  },
+  {
+    "question": "What is the official language of Brazil?",
+    "answer": "Portugese",
+    "incorrect_answers": [
+      "Brazilian",
+      "Spanish",
+      "English"
+    ]
+  },
+  {
+    "question": "The National Animal of Scotland is the Unicorn.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+    "answer": "Demolition",
+    "incorrect_answers": [
+      "The Dream Team",
+      "The Bushwhackers",
+      "The British Bulldogs"
+    ]
+  },
+  {
+    "question": "In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+    "answer": "Cabbage Patch Kids",
+    "incorrect_answers": [
+      "Transformers",
+      "Care Bears",
+      "Rubik&rsquo;s Cube"
+    ]
+  },
+  {
+    "question": "What geometric shape is generally used for stop signs?",
+    "answer": "Octagon",
+    "incorrect_answers": [
+      "Hexagon",
+      "Circle",
+      "Triangle"
+    ]
+  },
+  {
+    "question": "When you cry in space, your tears stick to your face.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "What is the French word for &quot;fish&quot;?",
+    "answer": "poisson",
+    "incorrect_answers": [
+      "fiche",
+      "escargot",
+      "mer"
+    ]
+  },
+  {
+    "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+    "answer": "Truth",
+    "incorrect_answers": [
+      "Answer",
+      "Cause",
+      "Source"
+    ]
+  },
+  {
+    "question": "What does a funambulist walk on?",
+    "answer": "A Tight Rope",
+    "incorrect_answers": [
+      "Broken Glass",
+      "Balls",
+      "The Moon"
+    ]
+  },
+  {
+    "question": "What is the famous Papa John&#039;s last name?",
+    "answer": "Schnatter",
+    "incorrect_answers": [
+      "Chowder",
+      "Williams",
+      "ANDERSON"
+    ]
+  },
+  {
+    "question": "How many furlongs are there in a mile?",
+    "answer": "Eight",
+    "incorrect_answers": [
+      "Two",
+      "Four",
+      "Six"
+    ]
+  },
+  {
+    "question": "What do the letters of the fast food chain KFC stand for?",
+    "answer": "Kentucky Fried Chicken",
+    "incorrect_answers": [
+      "Kentucky Fresh Cheese",
+      "Kibbled Freaky Cow",
+      "Kiwi Food Cut"
+    ]
+  },
+  {
+    "question": "Which sign of the zodiac is represented by the Crab?",
+    "answer": "Cancer",
+    "incorrect_answers": [
+      "Libra",
+      "Virgo",
+      "Sagittarius"
+    ]
+  },
+  {
+    "question": "What is Cynophobia the fear of?",
+    "answer": "Dogs",
+    "incorrect_answers": [
+      "Birds",
+      "Flying",
+      "Germs"
+    ]
+  },
+  {
+    "question": "When someone is cowardly, they are said to have what color belly?",
+    "answer": "Yellow",
+    "incorrect_answers": [
+      "Green",
+      "Red",
+      "Blue"
+    ]
+  },
+  {
+    "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+    "answer": "6th",
+    "incorrect_answers": [
+      "2nd",
+      "7th",
+      "4th"
+    ]
+  },
+  {
+    "question": "In aerodynamics, which force pushes an object upwards?",
+    "answer": "Lift",
+    "incorrect_answers": [
+      "Drag",
+      "Weight",
+      "Thrust"
+    ]
+  },
+  {
+    "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  }
+]
+
+
+
+
+
+
+
+[
+  {
+    "question": "Albert Einstein had trouble with mathematics when he was in school.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "The term &quot;scientist&quot; was coined in which year?",
+    "answer": "1833",
+    "incorrect_answers": [
+      "1933",
+      "1942",
+      "1796"
+    ]
+  },
+  {
+    "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+    "answer": "4",
+    "incorrect_answers": [
+      "3",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+    "answer": "Twilight Zone Tower of Terror",
+    "incorrect_answers": [
+      "The Haunted Mansion",
+      "Pirates of the Caribbean",
+      "Peter Pan&#039;s Flight"
+    ]
+  },
+  {
+    "question": "Frank Lloyd Wright was the architect behind what famous building?",
+    "answer": "The Guggenheim",
+    "incorrect_answers": [
+      "Villa Savoye",
+      "Sydney Opera House",
+      "The Space Needle"
+    ]
+  },
+  {
+    "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+    "answer": "Pancreatic",
+    "incorrect_answers": [
+      "Bone",
+      "Liver",
+      "Stomach"
+    ]
+  },
+  {
+    "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+    "answer": "Economics",
+    "incorrect_answers": [
+      "Philosophy",
+      "Politics",
+      "Physics"
+    ]
+  },
+  {
+    "question": "After how many years would you celebrate your crystal anniversary?",
+    "answer": "15",
+    "incorrect_answers": [
+      "20",
+      "10",
+      "25"
+    ]
+  },
+  {
+    "question": "An eggplant is a vegetable.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "What is the full title of the Prime Minister of the UK?",
+    "answer": "First Lord of the Treasury",
+    "incorrect_answers": [
+      "Duke of Cambridge",
+      "Her Majesty&#039;s Loyal Opposition",
+      "Manager of the Crown Estate"
+    ]
+  },
+  {
+    "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+    "answer": "Mike",
+    "incorrect_answers": [
+      "Matthew",
+      "Mark",
+      "Max"
+    ]
+  },
+  {
+    "question": "The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Who is the founder of &quot;The Lego Group&quot;?",
+    "answer": "Ole Kirk Christiansen",
+    "incorrect_answers": [
+      " Jens Niels Christiansen",
+      "Kirstine Christiansen",
+      " Gerhardt Kirk Christiansen"
+    ]
+  },
+  {
+    "question": "What is the currency of Poland?",
+    "answer": "Złoty",
+    "incorrect_answers": [
+      "Ruble",
+      "Euro",
+      "Krone"
+    ]
+  },
+  {
+    "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+    "answer": "We Love to See You Smile",
+    "incorrect_answers": [
+      "Why Pay More!?",
+      "Have It Your Way",
+      "Making People Happy Through Food"
+    ]
+  },
+  {
+    "question": "Haggis is traditionally ate on Burns Night.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Fast food restaurant chains Carl&#039;s Jr. and Hardee&#039;s are owned by the same company.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "What is the romanized Russian word for &quot;winter&quot;?",
+    "answer": "Zima",
+    "incorrect_answers": [
+      "Leto",
+      "Vesna",
+      "Osen&#039;"
+    ]
+  },
+  {
+    "question": "Which essential condiment is also known as Japanese horseradish?",
+    "answer": "Wasabi ",
+    "incorrect_answers": [
+      "Mentsuyu",
+      "Karashi",
+      "Ponzu"
+    ]
+  },
+  {
+    "question": "In the Morse code, which letter is indicated by 3 dots? ",
+    "answer": "S",
+    "incorrect_answers": [
+      "O",
+      "A",
+      "C"
+    ]
+  },
+  {
+    "question": "What is a &quot;dakimakura&quot;?",
+    "answer": "A body pillow",
+    "incorrect_answers": [
+      "A Chinese meal, essentially composed of fish",
+      "A yoga posture",
+      "A word used to describe two people who truly love each other"
+    ]
+  },
+  {
+    "question": "The website &quot;Shut Up &amp; Sit Down&quot; reviews which form of media?",
+    "answer": "Board Games",
+    "incorrect_answers": [
+      "Television Shows",
+      "Video Games",
+      "Films"
+    ]
+  },
+  {
+    "question": "The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which country drives on the left side of the road?",
+    "answer": "Japan",
+    "incorrect_answers": [
+      "Germany",
+      "Russia",
+      "China"
+    ]
+  },
+  {
+    "question": "What alcoholic drink is mainly made from juniper berries?",
+    "answer": "Gin",
+    "incorrect_answers": [
+      "Vodka",
+      "Rum",
+      "Tequila"
+    ]
+  },
+  {
+    "question": "&quot;Santa Claus&quot; is a variety of melon.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "What is the unit of currency in Laos?",
+    "answer": "Kip",
+    "incorrect_answers": [
+      "Ruble",
+      "Konra",
+      "Dollar"
+    ]
+  },
+  {
+    "question": "Which river flows through the Scottish city of Glasgow?",
+    "answer": "Clyde",
+    "incorrect_answers": [
+      "Tay",
+      "Dee",
+      "Tweed"
+    ]
+  },
+  {
+    "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+    "answer": "David Childs",
+    "incorrect_answers": [
+      "Bjarke Ingels",
+      "Michael Arad",
+      "Fumihiko Maki"
+    ]
+  },
+  {
+    "question": "&quot;Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.&quot; is a grammatically correct sentence.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "What is a dead mall?",
+    "answer": "A mall with high vacancy rates or low consumer foot traffic",
+    "incorrect_answers": [
+      "A mall with no stores",
+      "A mall that has been condemed",
+      "A mall after business hours"
+    ]
+  },
+  {
+    "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+    "answer": "Yale University",
+    "incorrect_answers": [
+      "Princeton University",
+      "Harvard University",
+      "Columbia University"
+    ]
+  },
+  {
+    "question": "Who invented Pastafarianism?",
+    "answer": "Bobby Henderson",
+    "incorrect_answers": [
+      "Eric Tignor",
+      "Bill Nye",
+      "Zach Soldi"
+    ]
+  },
+  {
+    "question": "In what year was McDonald&#039;s founded?",
+    "answer": "1955",
+    "incorrect_answers": [
+      "1964",
+      "1951",
+      "1947"
+    ]
+  },
+  {
+    "question": "The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Who is a co-founder of music streaming service Spotify?",
+    "answer": "Daniel Ek",
+    "incorrect_answers": [
+      "Sean Parker",
+      "Felix Miller",
+      "Michael Breidenbruecker"
+    ]
+  },
+  {
+    "question": "When did the website &quot;Facebook&quot; launch?",
+    "answer": "2004",
+    "incorrect_answers": [
+      "2005",
+      "2003",
+      "2006"
+    ]
+  },
+  {
+    "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+    "answer": "Horse",
+    "incorrect_answers": [
+      "Weave",
+      "Guitar",
+      "Boat"
+    ]
+  },
+  {
+    "question": "Which of these words means &quot;idle spectator&quot;?",
+    "answer": "Gongoozler",
+    "incorrect_answers": [
+      "Gossypiboma",
+      "Jentacular",
+      "Meupareunia"
+    ]
+  },
+  {
+    "question": "The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "The average woman is 5 inches / 13 centimeters shorter than the average man.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Earl Grey tea is black tea flavoured with what?",
+    "answer": "Bergamot oil",
+    "incorrect_answers": [
+      "Lavender",
+      "Vanilla",
+      "Honey"
+    ]
+  },
+  {
+    "question": "Coca-Cola&#039;s original colour was green.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "In a standard set of playing cards, which is the only king without a moustache?",
+    "answer": "Hearts",
+    "incorrect_answers": [
+      "Spades",
+      "Diamonds",
+      "Clubs"
+    ]
+  },
+  {
+    "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+    "answer": "Josh DeSeno",
+    "incorrect_answers": [
+      "Justin DeSeno",
+      "John DeSeno",
+      "Jimmy DeSeno"
+    ]
+  },
+  {
+    "question": "What is the Italian word for &quot;tomato&quot;?",
+    "answer": "Pomodoro",
+    "incorrect_answers": [
+      "Aglio",
+      "Cipolla",
+      "Peperoncino"
+    ]
+  },
+  {
+    "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+    "answer": "Jumping over an office chair",
+    "incorrect_answers": [
+      "Jumping backwards over a desk",
+      "Standing on his head",
+      "Typing on a keyboard during a handstand"
+    ]
+  },
+  {
+    "question": "What fast food chain has the most locations globally? ",
+    "answer": "Subway",
+    "incorrect_answers": [
+      "Starbucks",
+      "McDonalds",
+      "KFC"
+    ]
+  },
+  {
+    "question": "On average, Americans consume 100 pounds of what per second?",
+    "answer": "Chocolate",
+    "incorrect_answers": [
+      "Potatoes",
+      "Donuts",
+      "Cocaine"
+    ]
+  },
+  {
+    "question": "What is real haggis made of?",
+    "answer": "Sheep&#039;s Heart, Liver and Lungs",
+    "incorrect_answers": [
+      "Sheep&#039;s Heart, Kidneys and Lungs",
+      "Sheep&#039;s Liver, Kidneys and Eyes",
+      "Whole Sheep"
+    ]
+  }
+]
+
+
+
+
+
+[
+  {
+    "question": "If you planted the seeds of Quercus robur, what would grow?",
+    "answer": "Trees",
+    "incorrect_answers": [
+      "Grains",
+      "Vegetables",
+      "Flowers"
+    ]
+  },
+  {
+    "question": "&quot;Number 16 Bus Shelter&quot; was a child&#039;s name that was approved by the New Zealand government.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "The word &quot;abulia&quot; means which of the following?",
+    "answer": "The inability to make decisions",
+    "incorrect_answers": [
+      "The inability to stand up",
+      "The inability to concentrate on anything",
+      "A feverish desire to rip one&#039;s clothes off"
+    ]
+  },
+  {
+    "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+    "answer": "Turkish",
+    "incorrect_answers": [
+      "German",
+      "Danish",
+      "Polish"
+    ]
+  },
+  {
+    "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+    "answer": "Andrew Scott Reisse",
+    "incorrect_answers": [
+      "Nate Mitchell",
+      "Jack McCauley",
+      "Palmer Luckey"
+    ]
+  },
+  {
+    "question": "The word &quot;aprosexia&quot; means which of the following?",
+    "answer": "The inability to concentrate on anything",
+    "incorrect_answers": [
+      "The inability to make decisions",
+      "A feverish desire to rip one&#039;s clothes off",
+      "The inability to stand up"
+    ]
+  },
+  {
+    "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+    "answer": "7 years",
+    "incorrect_answers": [
+      "2 years",
+      "8 years",
+      "6 months"
+    ]
+  },
+  {
+    "question": "Which one of these Swedish companies was founded in 1943?",
+    "answer": "IKEA",
+    "incorrect_answers": [
+      "H &amp; M",
+      "Lindex",
+      "Clas Ohlson"
+    ]
+  },
+  {
+    "question": "What is the most commonly used noun in the English language?",
+    "answer": "Time",
+    "incorrect_answers": [
+      "Home",
+      "Water",
+      "Man"
+    ]
+  },
+  {
+    "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+    "answer": "28%",
+    "incorrect_answers": [
+      "13%",
+      "20%",
+      "7%"
+    ]
+  },
+  {
+    "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+    "answer": "Madeon",
+    "incorrect_answers": [
+      "Mat Zo",
+      "deadmau5",
+      "Zedd"
+    ]
+  },
+  {
+    "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+    "answer": "Edward VIII",
+    "incorrect_answers": [
+      "Victoria",
+      "George VI",
+      "Charles II"
+    ]
+  },
+  {
+    "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+    "answer": "You smell extremely unpleasant.",
+    "incorrect_answers": [
+      "You are out of shape/weak.",
+      "Your appearance is repulsive.",
+      "You are incomprehensible/an idiot."
+    ]
+  },
+  {
+    "question": "What was the third country to have a McDonald&#039;s restaurant?",
+    "answer": "Costa Rica",
+    "incorrect_answers": [
+      "Japan",
+      "France",
+      "Australia"
+    ]
+  },
+  {
+    "question": "This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+    "answer": "Ed Sheeran - I See Fire",
+    "incorrect_answers": [
+      "Marvin Gaye - Sexual Healing",
+      "Coldplay - Midnight",
+      "a-ha - Take On Me"
+    ]
+  },
+  {
+    "question": "Nephelococcygia is the practice of doing what?",
+    "answer": "Finding shapes in clouds",
+    "incorrect_answers": [
+      "Sleeping with your eyes open",
+      "Breaking glass with your voice",
+      "Swimming in freezing water"
+    ]
+  },
+  {
+    "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+    "answer": "Bulldog",
+    "incorrect_answers": [
+      "Yorkshire Terrier",
+      "Boxer",
+      "Pug"
+    ]
+  },
+  {
+    "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+    "answer": "150",
+    "incorrect_answers": [
+      "200",
+      "100",
+      "155"
+    ]
+  },
+  {
+    "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+    "answer": "India",
+    "incorrect_answers": [
+      "Papua New Guinea",
+      "Ethiopia",
+      "China"
+    ]
+  },
+  {
+    "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+    "answer": "1 Month",
+    "incorrect_answers": [
+      "3 Weeks",
+      "1 Week",
+      "2 Months"
+    ]
+  },
+  {
+    "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+    "answer": "The Shatter&#039;s",
+    "incorrect_answers": [
+      "Snake Pit",
+      "The Tomb of the Acient&#039;s",
+      "The Puppet Master&#039;s Theater"
+    ]
+  },
+  {
+    "question": "Which product did Nokia, the telecommunications company, originally sell?",
+    "answer": "Paper",
+    "incorrect_answers": [
+      "Phones",
+      "Computers",
+      "Processors"
+    ]
+  },
+  {
+    "question": "Stagecoach owned &quot;South West Trains&quot; before losing the rights to FirstGroup and MTR in March of 2017.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Chartreuse is a color between yellow and what?",
+    "answer": "Green",
+    "incorrect_answers": [
+      "Red",
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "question": "Which of the following chemicals are found in eggplant seeds?",
+    "answer": "Nicotine",
+    "incorrect_answers": [
+      "Mescaline",
+      "Cyanide",
+      "Psilocybin"
+    ]
+  },
+  {
+    "question": "What year was Queen Elizabeth II born?",
+    "answer": "1926",
+    "incorrect_answers": [
+      "1923",
+      "1929",
+      "1930"
+    ]
+  },
+  {
+    "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+    "answer": "The Goth Family",
+    "incorrect_answers": [
+      "The Family",
+      "The Simoleon Family",
+      "The Proud Family"
+    ]
+  },
+  {
+    "question": "Who founded the Khan Academy?",
+    "answer": "Sal Khan",
+    "incorrect_answers": [
+      "Ben Khan",
+      "Kitt Khan",
+      "Adel Khan"
+    ]
+  },
+  {
+    "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+    "answer": "Harry",
+    "incorrect_answers": [
+      "Gus",
+      "Phineas",
+      "Ezra"
+    ]
+  },
+  {
+    "question": "In Scandinavian languages, the letter &Aring; means river.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+    "answer": "OCBC",
+    "incorrect_answers": [
+      "HSBC",
+      "Standard Chartered",
+      "Bank of China"
+    ]
+  },
+  {
+    "question": "NCIS stands for &quot;Navy Corps Investigative Service&quot;",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Where is Apple Inc. headquartered?",
+    "answer": "Cupertino, California",
+    "incorrect_answers": [
+      "Redwood City, California",
+      "Redmond, Washington",
+      "Santa Monica, CA"
+    ]
+  },
+  {
+    "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+    "answer": "15%",
+    "incorrect_answers": [
+      "20%",
+      "10%",
+      "25%"
+    ]
+  },
+  {
+    "question": "What was Bank of America originally established as?",
+    "answer": "Bank of Italy",
+    "incorrect_answers": [
+      "Bank of Long Island",
+      "Bank of Pennsylvania",
+      "Bank of Charlotte"
+    ]
+  },
+  {
+    "question": "What is the airspeed velocity of an unladen swallow?",
+    "answer": "24 MPH",
+    "incorrect_answers": [
+      "15 MPH",
+      "20 MPH",
+      "200 MPH"
+    ]
+  },
+  {
+    "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+    "answer": "Traffic Collision Avoidance System",
+    "incorrect_answers": [
+      "Traffic Communication Alert System",
+      "Traffic Configuration Alignment System",
+      "Traffic Call-sign Abbreviation System"
+    ]
+  },
+  {
+    "question": "The Quadrangularis Reversum is best described as which of the following?",
+    "answer": "A percussion instrument",
+    "incorrect_answers": [
+      "A building in Oxford University",
+      "A chess move",
+      "A geometric theorem"
+    ]
+  },
+  {
+    "question": "Which of the following is not another name for the eggplant?",
+    "answer": "Potimarron",
+    "incorrect_answers": [
+      "Brinjal",
+      "Guinea Squash",
+      "Melongene"
+    ]
+  },
+  {
+    "question": "When was &quot;YouTube&quot; founded?",
+    "answer": "February 14, 2005",
+    "incorrect_answers": [
+      "May 22, 2004",
+      "September 12, 2005",
+      "July 19, 2009"
+    ]
+  },
+  {
+    "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+    "answer": "Parlor",
+    "incorrect_answers": [
+      "Open Room",
+      "Sitting Room",
+      "Loft"
+    ]
+  },
+  {
+    "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+    "answer": "St. Peter&#039;s Basilica",
+    "incorrect_answers": [
+      "Catania Cathedral",
+      "St. Mark&rsquo;s Basilica",
+      "The Duomo of Florence"
+    ]
+  },
+  {
+    "question": "What year was the RoboSapien toy robot released?",
+    "answer": "2004",
+    "incorrect_answers": [
+      "2000",
+      "2001",
+      "2006"
+    ]
+  },
+  {
+    "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+    "answer": "Feiji",
+    "incorrect_answers": [
+      "Qiche",
+      "Zongxian",
+      "Huojian"
+    ]
+  },
+  {
+    "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+    "answer": "I came, I saw, I conquered",
+    "incorrect_answers": [
+      "See no evil, hear no evil, speak no evil",
+      "Life, liberty, and happiness",
+      "Past, present, and future"
+    ]
+  },
+  {
+    "question": "The word &quot;astasia&quot; means which of the following?",
+    "answer": "The inability to stand up",
+    "incorrect_answers": [
+      "The inability to make decisions",
+      "The inability to concentrate on anything",
+      "A feverish desire to rip one&#039;s clothes off"
+    ]
+  },
+  {
+    "question": "How many notes are there on a standard grand piano?",
+    "answer": "88",
+    "incorrect_answers": [
+      "98",
+      "108",
+      "78"
+    ]
+  },
+  {
+    "question": "Originally another word for poppy, coquelicot is a shade of what?",
+    "answer": "Red",
+    "incorrect_answers": [
+      "Green",
+      "Blue",
+      "Pink"
+    ]
+  },
+  {
+    "question": "What is the romanized Korean word for &quot;heart&quot;?",
+    "answer": "Simjang",
+    "incorrect_answers": [
+      "Aejeong",
+      "Jeongsin",
+      "Segseu"
+    ]
+  }
+]
+
+[
+  {
+    "question": "If you planted the seeds of Quercus robur, what would grow?",
+    "answer": "Trees",
+    "incorrect_answers": [
+      "Grains",
+      "Vegetables",
+      "Flowers"
+    ]
+  },
+  {
+    "question": "&quot;Number 16 Bus Shelter&quot; was a child&#039;s name that was approved by the New Zealand government.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "The word &quot;abulia&quot; means which of the following?",
+    "answer": "The inability to make decisions",
+    "incorrect_answers": [
+      "The inability to stand up",
+      "The inability to concentrate on anything",
+      "A feverish desire to rip one&#039;s clothes off"
+    ]
+  },
+  {
+    "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+    "answer": "Turkish",
+    "incorrect_answers": [
+      "German",
+      "Danish",
+      "Polish"
+    ]
+  },
+  {
+    "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+    "answer": "Andrew Scott Reisse",
+    "incorrect_answers": [
+      "Nate Mitchell",
+      "Jack McCauley",
+      "Palmer Luckey"
+    ]
+  },
+  {
+    "question": "The word &quot;aprosexia&quot; means which of the following?",
+    "answer": "The inability to concentrate on anything",
+    "incorrect_answers": [
+      "The inability to make decisions",
+      "A feverish desire to rip one&#039;s clothes off",
+      "The inability to stand up"
+    ]
+  },
+  {
+    "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+    "answer": "7 years",
+    "incorrect_answers": [
+      "2 years",
+      "8 years",
+      "6 months"
+    ]
+  },
+  {
+    "question": "Which one of these Swedish companies was founded in 1943?",
+    "answer": "IKEA",
+    "incorrect_answers": [
+      "H &amp; M",
+      "Lindex",
+      "Clas Ohlson"
+    ]
+  },
+  {
+    "question": "What is the most commonly used noun in the English language?",
+    "answer": "Time",
+    "incorrect_answers": [
+      "Home",
+      "Water",
+      "Man"
+    ]
+  },
+  {
+    "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+    "answer": "28%",
+    "incorrect_answers": [
+      "13%",
+      "20%",
+      "7%"
+    ]
+  },
+  {
+    "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+    "answer": "Madeon",
+    "incorrect_answers": [
+      "Mat Zo",
+      "deadmau5",
+      "Zedd"
+    ]
+  },
+  {
+    "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+    "answer": "Edward VIII",
+    "incorrect_answers": [
+      "Victoria",
+      "George VI",
+      "Charles II"
+    ]
+  },
+  {
+    "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+    "answer": "You smell extremely unpleasant.",
+    "incorrect_answers": [
+      "You are out of shape/weak.",
+      "Your appearance is repulsive.",
+      "You are incomprehensible/an idiot."
+    ]
+  },
+  {
+    "question": "What was the third country to have a McDonald&#039;s restaurant?",
+    "answer": "Costa Rica",
+    "incorrect_answers": [
+      "Japan",
+      "France",
+      "Australia"
+    ]
+  },
+  {
+    "question": "This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+    "answer": "Ed Sheeran - I See Fire",
+    "incorrect_answers": [
+      "Marvin Gaye - Sexual Healing",
+      "Coldplay - Midnight",
+      "a-ha - Take On Me"
+    ]
+  },
+  {
+    "question": "Nephelococcygia is the practice of doing what?",
+    "answer": "Finding shapes in clouds",
+    "incorrect_answers": [
+      "Sleeping with your eyes open",
+      "Breaking glass with your voice",
+      "Swimming in freezing water"
+    ]
+  },
+  {
+    "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+    "answer": "Bulldog",
+    "incorrect_answers": [
+      "Yorkshire Terrier",
+      "Boxer",
+      "Pug"
+    ]
+  },
+  {
+    "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+    "answer": "150",
+    "incorrect_answers": [
+      "200",
+      "100",
+      "155"
+    ]
+  },
+  {
+    "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+    "answer": "India",
+    "incorrect_answers": [
+      "Papua New Guinea",
+      "Ethiopia",
+      "China"
+    ]
+  },
+  {
+    "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+    "answer": "1 Month",
+    "incorrect_answers": [
+      "3 Weeks",
+      "1 Week",
+      "2 Months"
+    ]
+  },
+  {
+    "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+    "answer": "The Shatter&#039;s",
+    "incorrect_answers": [
+      "Snake Pit",
+      "The Tomb of the Acient&#039;s",
+      "The Puppet Master&#039;s Theater"
+    ]
+  },
+  {
+    "question": "Which product did Nokia, the telecommunications company, originally sell?",
+    "answer": "Paper",
+    "incorrect_answers": [
+      "Phones",
+      "Computers",
+      "Processors"
+    ]
+  },
+  {
+    "question": "Stagecoach owned &quot;South West Trains&quot; before losing the rights to FirstGroup and MTR in March of 2017.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Chartreuse is a color between yellow and what?",
+    "answer": "Green",
+    "incorrect_answers": [
+      "Red",
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "question": "Which of the following chemicals are found in eggplant seeds?",
+    "answer": "Nicotine",
+    "incorrect_answers": [
+      "Mescaline",
+      "Cyanide",
+      "Psilocybin"
+    ]
+  },
+  {
+    "question": "What year was Queen Elizabeth II born?",
+    "answer": "1926",
+    "incorrect_answers": [
+      "1923",
+      "1929",
+      "1930"
+    ]
+  },
+  {
+    "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+    "answer": "The Goth Family",
+    "incorrect_answers": [
+      "The Family",
+      "The Simoleon Family",
+      "The Proud Family"
+    ]
+  },
+  {
+    "question": "Who founded the Khan Academy?",
+    "answer": "Sal Khan",
+    "incorrect_answers": [
+      "Ben Khan",
+      "Kitt Khan",
+      "Adel Khan"
+    ]
+  },
+  {
+    "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+    "answer": "Harry",
+    "incorrect_answers": [
+      "Gus",
+      "Phineas",
+      "Ezra"
+    ]
+  },
+  {
+    "question": "In Scandinavian languages, the letter &Aring; means river.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+    "answer": "OCBC",
+    "incorrect_answers": [
+      "HSBC",
+      "Standard Chartered",
+      "Bank of China"
+    ]
+  },
+  {
+    "question": "NCIS stands for &quot;Navy Corps Investigative Service&quot;",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Where is Apple Inc. headquartered?",
+    "answer": "Cupertino, California",
+    "incorrect_answers": [
+      "Redwood City, California",
+      "Redmond, Washington",
+      "Santa Monica, CA"
+    ]
+  },
+  {
+    "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+    "answer": "15%",
+    "incorrect_answers": [
+      "20%",
+      "10%",
+      "25%"
+    ]
+  },
+  {
+    "question": "What was Bank of America originally established as?",
+    "answer": "Bank of Italy",
+    "incorrect_answers": [
+      "Bank of Long Island",
+      "Bank of Pennsylvania",
+      "Bank of Charlotte"
+    ]
+  },
+  {
+    "question": "What is the airspeed velocity of an unladen swallow?",
+    "answer": "24 MPH",
+    "incorrect_answers": [
+      "15 MPH",
+      "20 MPH",
+      "200 MPH"
+    ]
+  },
+  {
+    "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+    "answer": "Traffic Collision Avoidance System",
+    "incorrect_answers": [
+      "Traffic Communication Alert System",
+      "Traffic Configuration Alignment System",
+      "Traffic Call-sign Abbreviation System"
+    ]
+  },
+  {
+    "question": "The Quadrangularis Reversum is best described as which of the following?",
+    "answer": "A percussion instrument",
+    "incorrect_answers": [
+      "A building in Oxford University",
+      "A chess move",
+      "A geometric theorem"
+    ]
+  },
+  {
+    "question": "Which of the following is not another name for the eggplant?",
+    "answer": "Potimarron",
+    "incorrect_answers": [
+      "Brinjal",
+      "Guinea Squash",
+      "Melongene"
+    ]
+  },
+  {
+    "question": "When was &quot;YouTube&quot; founded?",
+    "answer": "February 14, 2005",
+    "incorrect_answers": [
+      "May 22, 2004",
+      "September 12, 2005",
+      "July 19, 2009"
+    ]
+  },
+  {
+    "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+    "answer": "Parlor",
+    "incorrect_answers": [
+      "Open Room",
+      "Sitting Room",
+      "Loft"
+    ]
+  },
+  {
+    "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+    "answer": "St. Peter&#039;s Basilica",
+    "incorrect_answers": [
+      "Catania Cathedral",
+      "St. Mark&rsquo;s Basilica",
+      "The Duomo of Florence"
+    ]
+  },
+  {
+    "question": "What year was the RoboSapien toy robot released?",
+    "answer": "2004",
+    "incorrect_answers": [
+      "2000",
+      "2001",
+      "2006"
+    ]
+  },
+  {
+    "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+    "answer": "Feiji",
+    "incorrect_answers": [
+      "Qiche",
+      "Zongxian",
+      "Huojian"
+    ]
+  },
+  {
+    "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+    "answer": "I came, I saw, I conquered",
+    "incorrect_answers": [
+      "See no evil, hear no evil, speak no evil",
+      "Life, liberty, and happiness",
+      "Past, present, and future"
+    ]
+  },
+  {
+    "question": "The word &quot;astasia&quot; means which of the following?",
+    "answer": "The inability to stand up",
+    "incorrect_answers": [
+      "The inability to make decisions",
+      "The inability to concentrate on anything",
+      "A feverish desire to rip one&#039;s clothes off"
+    ]
+  },
+  {
+    "question": "How many notes are there on a standard grand piano?",
+    "answer": "88",
+    "incorrect_answers": [
+      "98",
+      "108",
+      "78"
+    ]
+  },
+  {
+    "question": "Originally another word for poppy, coquelicot is a shade of what?",
+    "answer": "Red",
+    "incorrect_answers": [
+      "Green",
+      "Blue",
+      "Pink"
+    ]
+  },
+  {
+    "question": "What is the romanized Korean word for &quot;heart&quot;?",
+    "answer": "Simjang",
+    "incorrect_answers": [
+      "Aejeong",
+      "Jeongsin",
+      "Segseu"
+    ]
+  }
+]
+
+
+
+[
+  {
+    "question": "In the movie &quot;Cast Away&quot; the main protagonist&#039;s best friend while on the island is named",
+    "answer": "Wilson",
+    "incorrect_answers": [
+      "Carson",
+      "Jackson",
+      "Willy"
+    ]
+  },
+  {
+    "question": "In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "&quot;Minions&quot; was released on the June 10th, 2015.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?",
+    "answer": "Quentin Tarantino",
+    "incorrect_answers": [
+      "Martin Scorcese",
+      "Steven Spielberg",
+      "James Cameron"
+    ]
+  },
+  {
+    "question": "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+    "answer": "Groovy.",
+    "incorrect_answers": [
+      "Gnarly.",
+      "Perfect.",
+      "Nice."
+    ]
+  },
+  {
+    "question": "Who plays Alice in the Resident Evil movies?",
+    "answer": "Milla Jovovich",
+    "incorrect_answers": [
+      "Madison Derpe",
+      "Milla Johnson",
+      "Kim Demp"
+    ]
+  },
+  {
+    "question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
+    "answer": "Scarlett Johansson",
+    "incorrect_answers": [
+      "Jared Leto",
+      "Will Smith",
+      "Margot Robbie"
+    ]
+  },
+  {
+    "question": "In the original script of &quot;The Matrix&quot;, the machines used humans as additional computing power instead of batteries.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+    "answer": "Gordon Shumway",
+    "incorrect_answers": [
+      "Gordon Milipp",
+      "Gordon Foster",
+      "Gordon von Gam"
+    ]
+  },
+  {
+    "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-lll?",
+    "answer": "Ewan McGregor",
+    "incorrect_answers": [
+      "Alec Guinness",
+      "Hayden Christensen",
+      "Liam Neeson"
+    ]
+  }
+]
+
+
+[
+  {
+    "question": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+    "answer": "San Francisco",
+    "incorrect_answers": [
+      "Los Angeles",
+      "Sacramento",
+      "San Jose"
+    ]
+  },
+  {
+    "question": "What is the correct phrase for the Latin saying &quot;Romanes Eunt Domus&quot; in Monty Python&#039;s Life of Brian?",
+    "answer": "Romani Ite Domum",
+    "incorrect_answers": [
+      "Romans Go Home",
+      "Roxani Ite Domum",
+      "Tomate Ite Domum"
+    ]
+  },
+  {
+    "question": "In the Friday The 13th series, what is Jason&#039;s mother&#039;s first name?",
+    "answer": "Pamela",
+    "incorrect_answers": [
+      "Mary",
+      "Christine",
+      "Angeline"
+    ]
+  },
+  {
+    "question": "After India, which country produces the second most movies per year?",
+    "answer": "Nigeria",
+    "incorrect_answers": [
+      "United States",
+      "China",
+      "France"
+    ]
+  },
+  {
+    "question": "Who was the director of &quot;Scott Pilgrim vs. the World (2010)&quot;?",
+    "answer": "Edgar Wright",
+    "incorrect_answers": [
+      "Phil Lord",
+      "Chris Miller",
+      "Seth Rogan"
+    ]
+  },
+  {
+    "question": "The original ending of &quot;Little Shop Of Horrors&quot; has the plants taking over the world.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?",
+    "answer": "Peter Cushing",
+    "incorrect_answers": [
+      "Boris Karloff",
+      "Vincent Price",
+      "Lon Chaney Jr."
+    ]
+  },
+  {
+    "question": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie &quot;Hardcore Henry&quot;?",
+    "answer": "Akan",
+    "incorrect_answers": [
+      "Estelle",
+      "Jimmy",
+      "Henry"
+    ]
+  },
+  {
+    "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+    "answer": "Jackie Earle Haley",
+    "incorrect_answers": [
+      "Tyler Mane",
+      "Derek Mears",
+      "Gunnar Hansen"
+    ]
+  },
+  {
+    "question": "Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films?",
+    "answer": "Doug Bradley",
+    "incorrect_answers": [
+      "Doug Jones",
+      "Doug Savant",
+      "Doug Benson"
+    ]
+  }
+]
+
+
+
+
+[
+  {
+    "question": "What is the name of the assassin in the first &quot;Hellboy&quot; movie?",
+    "answer": "Karl Ruprecht Kroenen",
+    "incorrect_answers": [
+      "Klaus Werner von Krupt",
+      "Grigori Efimovich Rasputin",
+      "Ilsa Haupstein"
+    ]
+  },
+  {
+    "question": "In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
+    "answer": "Tron",
+    "incorrect_answers": [
+      "Big Hero 6",
+      "Fantasia",
+      "Monsters, Inc."
+    ]
+  },
+  {
+    "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer&#039;s requiem?",
+    "answer": "Verdi",
+    "incorrect_answers": [
+      "Mozart",
+      "Berlioz",
+      "Brahms"
+    ]
+  },
+  {
+    "question": "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?",
+    "answer": "Thinking Machines CM-5",
+    "incorrect_answers": [
+      "Cray X-MP",
+      "Cray XK7",
+      "IBM Blue Gene/Q"
+    ]
+  },
+  {
+    "question": "Which singer is portrayed by Bruce Campbell in the 2002 film &#039;Bubba Ho-Tep&#039;?",
+    "answer": "Elvis Presley",
+    "incorrect_answers": [
+      "Johnny Cash",
+      "Hank Williams, Sr.",
+      "Buddy Holly"
+    ]
+  },
+  {
+    "question": "The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "What three movies, in order from release date, make up the &quot;Dollars Trilogy&quot;?",
+    "answer": "&quot;A Fistful of Dollars&quot;, &quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;",
+    "incorrect_answers": [
+      "&quot;The Good, the Bad, and the Ugly&quot;, &quot;For A Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;",
+      "&quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;, &quot;A Fistful of Dollars&quot;",
+      "&quot;For a Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;, &quot;The Good, the Bad, and the Ugly&quot;"
+    ]
+  },
+  {
+    "question": "YouTube personality Jenna Marbles served as an executive producer of the film Maximum Ride (2016).",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+    "answer": "Plan 9 from Outer Space",
+    "incorrect_answers": [
+      "The Man from Planet X",
+      "It Came from Outer Space",
+      "The Day The Earth Stood Still"
+    ]
+  },
+  {
+    "question": "In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?",
+    "answer": "4",
+    "incorrect_answers": [
+      "2",
+      "6",
+      "1"
+    ]
+  }
+]
+
+
+
+
+[
+  {
+    "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+    "answer": "Earth",
+    "incorrect_answers": [
+      "Venus",
+      "Mars",
+      "Uranus"
+    ]
+  },
+  {
+    "question": "The 2011 movie &quot;The Adventures of Tintin&quot; was directed by Steven Spielberg.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "&quot;Doctor Jones&quot;, &quot;Turn Back Time&quot; and &quot;Barbie Girl&quot; were UK number ones for which Eurodance group?",
+    "answer": "Aqua",
+    "incorrect_answers": [
+      "Vengaboys",
+      "Eiffel 65",
+      "Sash!"
+    ]
+  },
+  {
+    "question": "Which band released songs suchs as &quot;Rio&quot;, &quot;Girls on Film&quot;, and &quot;The Reflex&quot;?",
+    "answer": "Duran Duran",
+    "incorrect_answers": [
+      "The Cure",
+      "New Order",
+      "Depeche Mode"
+    ]
+  },
+  {
+    "question": "Whose albums included &quot;Back in Black&quot; and &quot;Ballbreaker&quot;?",
+    "answer": "AC/DC",
+    "incorrect_answers": [
+      "Iron Maiden",
+      "Black Sabbath",
+      "Metallica"
+    ]
+  },
+  {
+    "question": "Which country does the band Rammstein hail from?",
+    "answer": "Germany",
+    "incorrect_answers": [
+      "Austria",
+      "Armenia",
+      "Belgium"
+    ]
+  },
+  {
+    "question": "Which Canadian reggae musician had a 1993 hit with the song &#039;Informer&#039;?",
+    "answer": "Snow",
+    "incorrect_answers": [
+      "Rain",
+      "Hail",
+      "Sleet"
+    ]
+  },
+  {
+    "question": "The &quot;British Invasion&quot; was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",
+    "answer": "60&#039;s",
+    "incorrect_answers": [
+      "50&#039;s",
+      "40&#039;s",
+      "30&#039;s"
+    ]
+  },
+  {
+    "question": "How many members are there in the band Nirvana?",
+    "answer": "Three",
+    "incorrect_answers": [
+      "Two",
+      "Four",
+      "Five"
+    ]
+  },
+  {
+    "question": "What was Daft Punk&#039;s first studio album?",
+    "answer": "Homework",
+    "incorrect_answers": [
+      "Discovery",
+      "Random Access Memories",
+      "Human After All"
+    ]
+  },
+  {
+    "question": "Who was featured in the song &quot;Words&quot; by Feint? ",
+    "answer": "Laura Brehm",
+    "incorrect_answers": [
+      "Anna Yvette ",
+      "Danyka Nadeau",
+      "Veela"
+    ]
+  },
+  {
+    "question": "Michael Jackson wrote The Simpsons song &quot;Do the Bartman&quot;.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Which famous rapper is featured in Jack &Uuml; (Skrillex and Diplo)&#039;s 2015 single called &quot;Febreze&quot;?",
+    "answer": "2 Chainz",
+    "incorrect_answers": [
+      "Kendrick Lamar",
+      "Future",
+      "Fatman Scoop"
+    ]
+  },
+  {
+    "question": "Which English guitarist has the nickname &quot;Slowhand&quot;?",
+    "answer": "Eric Clapton",
+    "incorrect_answers": [
+      "Mark Knopfler",
+      "Jeff Beck",
+      "Jimmy Page"
+    ]
+  },
+  {
+    "question": "What was Rage Against the Machine&#039;s debut album?",
+    "answer": "Rage Against the Machine",
+    "incorrect_answers": [
+      "Evil Empire",
+      "Bombtrack",
+      "The Battle Of Los Angeles"
+    ]
+  },
+  {
+    "question": "Scatman John&#039;s real name was John Paul Larkin.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "What album did The Lumineers release in 2016?",
+    "answer": "Cleopatra",
+    "incorrect_answers": [
+      "Winter",
+      "The Lumineers",
+      "Tracks From The Attic"
+    ]
+  },
+  {
+    "question": "What was the best selling album of 2015?",
+    "answer": "Adele, 25",
+    "incorrect_answers": [
+      "Fetty Wap, Fetty Wap",
+      "Taylor Swift, 1989",
+      "Justin Bieber, Purpose"
+    ]
+  },
+  {
+    "question": "How many strings are there on a cello?",
+    "answer": "4",
+    "incorrect_answers": [
+      "5",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Which year was the album &quot;Year of the Snitch&quot; by Death Grips released?",
+    "answer": "2018",
+    "incorrect_answers": [
+      "2013",
+      "2017",
+      "2011"
+    ]
+  },
+  {
+    "question": "Which of these is the name of a song by Tears for Fears?",
+    "answer": "Shout",
+    "incorrect_answers": [
+      "Scream",
+      "Yell",
+      "Shriek"
+    ]
+  },
+  {
+    "question": "Who is the lead singer of Pearl Jam?",
+    "answer": "Eddie Vedder",
+    "incorrect_answers": [
+      "Ozzy Osbourne",
+      "Stone Gossard",
+      "Kurt Cobain"
+    ]
+  },
+  {
+    "question": "Whose signature guitar technique is called the &quot;windmill&quot;?",
+    "answer": "Pete Townshend",
+    "incorrect_answers": [
+      "Jimmy Page",
+      "Eddie Van Halen",
+      "Jimi Hendrix"
+    ]
+  },
+  {
+    "question": "Stevie Wonder&#039;s real name is Stevland Hardaway Morris.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Lead Singer Rivers Cuomo of American rock band Weezer attended Harvard.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which song on Daft Punk&#039;s &quot;Random Access Memories&quot; features Pharrell Williams?",
+    "answer": "Get Lucky",
+    "incorrect_answers": [
+      "Doin&#039; It Right",
+      "Instant Crush",
+      "The Game of Love"
+    ]
+  },
+  {
+    "question": "What is the name of the album released in 2014 by American band Maroon 5?",
+    "answer": "V",
+    "incorrect_answers": [
+      "X",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "question": "In the  Rossini opera, what was the name of &#039;The Barber of Seville&#039;?",
+    "answer": "Figaro",
+    "incorrect_answers": [
+      "Angelo",
+      "Fernando",
+      "Dave"
+    ]
+  },
+  {
+    "question": "The 2016 song &quot;Starboy&quot; by Canadian singer The Weeknd features which prominent electronic artist?",
+    "answer": "Daft Punk",
+    "incorrect_answers": [
+      "deadmau5",
+      "Disclosure",
+      "DJ Shadow"
+    ]
+  },
+  {
+    "question": "In 1993, Prince changed his name to an unpronounceable symbol because he was unhappy with his contract with Warner Bros.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which of these is NOT the name of an album released by English singer-songwriter Adele?",
+    "answer": "12",
+    "incorrect_answers": [
+      "19",
+      "21",
+      "25"
+    ]
+  },
+  {
+    "question": "&quot;Hallelujah&quot; is a song written by which Canadian recording artist?",
+    "answer": "Leonard Cohen",
+    "incorrect_answers": [
+      "Kory Lefkowits",
+      "Ryan Letourneau ",
+      "Justin Bieber "
+    ]
+  },
+  {
+    "question": "Which of the following is an album by punk rock band Anti-Flag?",
+    "answer": "For Blood And Empire",
+    "incorrect_answers": [
+      "Infinity On High",
+      "21st Century Breakdown",
+      "No Pads, No Helmets...Just Balls"
+    ]
+  },
+  {
+    "question": "Who is the lead singer of Foo Fighters?",
+    "answer": "Dave Grohl",
+    "incorrect_answers": [
+      "Dave Mustaine",
+      "James Hetfield",
+      "Little Red Riding Hood"
+    ]
+  },
+  {
+    "question": "&quot;The Singing Cowboy&quot; Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
+    "answer": "White Christmas",
+    "incorrect_answers": [
+      "Frosty the Snowman",
+      "Rudolph the Red-Nosed Reindeer",
+      "Here Comes Santa Claus"
+    ]
+  },
+  {
+    "question": "Which Disney character sings the song &quot;A Dream is a Wish Your Heart Makes&quot;?",
+    "answer": "Cinderella",
+    "incorrect_answers": [
+      "Belle",
+      "Snow White",
+      "Pocahontas"
+    ]
+  },
+  {
+    "question": "Which group performs the song &quot;Crash into Me&quot;?",
+    "answer": "Dave Matthews Band",
+    "incorrect_answers": [
+      "Phish",
+      "The Grateful Dead",
+      "Destiny&#039;s Child"
+    ]
+  },
+  {
+    "question": "Who is the lead singer of Arctic Monkeys?",
+    "answer": "Alex Turner",
+    "incorrect_answers": [
+      "Jamie Cook",
+      "Matt Helders",
+      "Nick O&#039;Malley"
+    ]
+  },
+  {
+    "question": "Who is the lead singer of the band Coldplay?",
+    "answer": "Chris Martin",
+    "incorrect_answers": [
+      "Chris Isaak",
+      "Chris Wallace",
+      "Chris Connelly"
+    ]
+  },
+  {
+    "question": "What was the name of singer Frank Ocean&#039;s second studio album, which was released on August 20, 2016?",
+    "answer": "Blonde",
+    "incorrect_answers": [
+      "Brunette",
+      "Black",
+      "Burgundy"
+    ]
+  },
+  {
+    "question": "&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
+    "answer": "Nokia Tune",
+    "incorrect_answers": [
+      "Hello Moto [Motorola Ringtone]",
+      "Droid Ringtone",
+      "Microsoft Ringtone"
+    ]
+  },
+  {
+    "question": "Which former boy-band star released hit solo single &quot;Angels&quot; in 1997?",
+    "answer": "Robbie Williams",
+    "incorrect_answers": [
+      "Justin Timberlake",
+      "Harry Styles",
+      "Gary Barlow"
+    ]
+  },
+  {
+    "question": "Ringo Starr of The Beatles mainly played what instrument?",
+    "answer": "Drums",
+    "incorrect_answers": [
+      "Bass",
+      "Guitar",
+      "Piano"
+    ]
+  },
+  {
+    "question": "Which of the following songs was not originally released by Sir Elton John? ",
+    "answer": "You&#039;ll Be In My Heart",
+    "incorrect_answers": [
+      "Crocodile Rock",
+      "Candle in the Wind",
+      "I Don&#039;t Wanna Go On With You Like That"
+    ]
+  },
+  {
+    "question": "Eurobeat is primarily an Italian genre of music.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song &quot;Paper Planes&quot;?",
+    "answer": "M.I.A.",
+    "incorrect_answers": [
+      "K.I.A.",
+      "C.I.A.",
+      "A.I.A."
+    ]
+  },
+  {
+    "question": "Who performed &quot;I Took A Pill In Ibiza&quot;?",
+    "answer": "Mike Posner",
+    "incorrect_answers": [
+      "Avicii",
+      "Robbie Williams",
+      "Harry Styles"
+    ]
+  },
+  {
+    "question": "In 2006, which band released their debut album &quot;A Fever You Can&#039;t Sweat Out&quot;?",
+    "answer": "Panic! At the Disco",
+    "incorrect_answers": [
+      "Twenty One Pilots",
+      "My Chemical Romance",
+      "Fall Out Boy"
+    ]
+  },
+  {
+    "question": "The song &quot;Stronger Than You&quot; is a single by Estelle, who played Garnet in Steven Universe.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "What 1970&#039;s American ballad referred to the 1959 plane crash as the &quot;the day the music died&quot;?",
+    "answer": "American Pie",
+    "incorrect_answers": [
+      "Kentucky Rain",
+      "I Will Always Love You",
+      "Rock &#039;n&#039; Roll Suicide"
+    ]
+  }
+]
+
+
+
+
+
+[
+  {
+    "question": "What musician made the song &quot;F**kin` Perfect&quot; in 2010?",
+    "answer": "P!nk",
+    "incorrect_answers": [
+      "Mitis",
+      "Adam lambert",
+      "Koven"
+    ]
+  },
+  {
+    "question": "Which album by American rapper Kanye West contained songs such as &quot;Love Lockdown&quot;, &quot;Paranoid&quot; and &quot;Heartless&quot;?",
+    "answer": "808s &amp; Heartbreak",
+    "incorrect_answers": [
+      "Late Registration",
+      "The Life of Pablo",
+      "Graduation"
+    ]
+  },
+  {
+    "question": "How many copies have Metallica album &quot;Metallica&quot; (A.K.A The Black Album) sold worldwide (in Millions of Copies)?",
+    "answer": "20.5",
+    "incorrect_answers": [
+      "19.5",
+      "22.5",
+      "25.5"
+    ]
+  },
+  {
+    "question": "What was the name of the Wu-Tang Clan album Martin Shkreli bought for $2 million dollars?",
+    "answer": "Once Upon a Time in Shaolin",
+    "incorrect_answers": [
+      "A Better Tomorrow",
+      "8 Diagrams",
+      "The Saga Continues"
+    ]
+  },
+  {
+    "question": "&quot;The Division Bell&quot; is the final album of the progressive rock band Pink Floyd.",
+    "answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Rapper Snoop Dogg&#039;s real name is &#039;Cordozar Calvin Broadus, Jr.&#039;.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Moby, an American DJ, singer, and musician, achieved worldwide success for the 1999 release of which of the following albums?",
+    "answer": "Play",
+    "incorrect_answers": [
+      "Everything Is Wrong",
+      "Moby",
+      "18"
+    ]
+  },
+  {
+    "question": "Which Beatle wrote and sang the song &quot;Why Don&#039;t We Do It in the Road&quot; after being inspired by seeing two monkeys copulating in the street?",
+    "answer": "Paul",
+    "incorrect_answers": [
+      "John",
+      "George",
+      "Ringo"
+    ]
+  },
+  {
+    "question": "Which artist curated the official soundtrack for &quot;The Hunger Games: Mockingjay - Part 1&quot;?",
+    "answer": "Lorde",
+    "incorrect_answers": [
+      "Kanye West",
+      "Tove Lo",
+      "Charli XCX"
+    ]
+  },
+  {
+    "question": "Green Day&#039;s album &#039;American Idiot&#039; is considered a &quot;punk rock opera.&quot;",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Who is the frontman of Muse?",
+    "answer": "Matt Bellamy",
+    "incorrect_answers": [
+      "Dominic Howard",
+      "Thom Yorke",
+      "Jonny Greenwood"
+    ]
+  },
+  {
+    "question": "Liam Howlett founded which electronic music group in 1990?",
+    "answer": "The Prodigy",
+    "incorrect_answers": [
+      "The Chemical Brothers",
+      "The Crystal Method",
+      "Infected Mushroom"
+    ]
+  },
+  {
+    "question": "Which of these bands are NOT from Australia?",
+    "answer": "The Naked and Famous",
+    "incorrect_answers": [
+      "Cut Copy",
+      "Empire of the Sun",
+      "Tame Impala"
+    ]
+  },
+  {
+    "question": "Which of these is not a single by Pink Floyd guitarist, David Gilmour?",
+    "answer": "Sunset Strip",
+    "incorrect_answers": [
+      "Rattle That Lock",
+      "Blue Light",
+      "Arnold Layne"
+    ]
+  },
+  {
+    "question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
+    "answer": "Unknown Pleasures",
+    "incorrect_answers": [
+      "The Dark Side of the Moon",
+      "London Calling",
+      "The Velvet Underground &amp; Nico"
+    ]
+  },
+  {
+    "question": "The song &quot;Twin Size Mattress&quot; was written by which band?",
+    "answer": "The Front Bottoms",
+    "incorrect_answers": [
+      "Twenty One Pilots",
+      "The Wonder Years",
+      "The Smith Street Band"
+    ]
+  },
+  {
+    "question": "What French artist/band is known for playing on the midi instrument &quot;Launchpad&quot;?",
+    "answer": "Madeon",
+    "incorrect_answers": [
+      "Daft Punk ",
+      "Disclosure",
+      "David Guetta"
+    ]
+  },
+  {
+    "question": "Who is the primary lyricist for Canadian progressive rock band Rush?",
+    "answer": "Neil Peart",
+    "incorrect_answers": [
+      "Geddy Lee",
+      "Alex Lifeson",
+      "John Rutsey"
+    ]
+  },
+  {
+    "question": "&quot;Drink the Sea&quot; is an album by which electronic music artist?",
+    "answer": "The Glitch Mob",
+    "incorrect_answers": [
+      "Avicii",
+      "XXYYXX",
+      "Flux Pavilion"
+    ]
+  },
+  {
+    "question": "Rick Astley&#039;s hit song &quot;Never Gonna Give You Up&quot; was released in what year?",
+    "answer": "1987",
+    "incorrect_answers": [
+      "1985",
+      "1986",
+      "1988"
+    ]
+  },
+  {
+    "question": "Which of these songs did Jimi Hendrix cover?",
+    "answer": "All of these songs",
+    "incorrect_answers": [
+      "Sgt. Pepper&#039;s Lonely Hearts Club Band",
+      "All Along the Watchtower",
+      "House of the Rising Sun"
+    ]
+  },
+  {
+    "question": "Which song made by MAN WITH A MISSION was used as the opening for the anime &quot;Log Horizon&quot;?",
+    "answer": "&quot;Database&quot;",
+    "incorrect_answers": [
+      "&quot;Dead End in Tokyo&quot;",
+      "&quot;Raise Your Flag&quot;",
+      "&quot;Out of Control&quot;"
+    ]
+  },
+  {
+    "question": "Ellie Goulding&#039;s earliest album was named?",
+    "answer": "Lights",
+    "incorrect_answers": [
+      "Halcyon",
+      "Bright Lights",
+      "Halcyon Days"
+    ]
+  },
+  {
+    "question": "In which year did &quot;Caravan Palace&quot; release their first album?",
+    "answer": "2008",
+    "incorrect_answers": [
+      "2000",
+      "2015",
+      "2004"
+    ]
+  },
+  {
+    "question": "&quot;Neutral Milk Hotel&quot; is a real band.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Irish musician Hozier released a music track in 2013 titled, &quot;Take Me to ______&quot;",
+    "answer": "Church",
+    "incorrect_answers": [
+      "Mosque",
+      "Synagogue",
+      "Temple"
+    ]
+  },
+  {
+    "question": "The cover of The Beatles album &quot;Abbey Road&quot; featured a Volkswagen Beetle in the background.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Who had a US and UK number 1 hit in 1962 with the instrumental, &#039;Telstar&#039;?",
+    "answer": "The Tornados",
+    "incorrect_answers": [
+      "The Ventures",
+      "The Spotnicks",
+      "The Tremeloes"
+    ]
+  },
+  {
+    "question": "On the cover of &#039;Abbey Road,&#039; which of the Beatles is not wearing shoes?",
+    "answer": "Paul McCartney",
+    "incorrect_answers": [
+      "Ringo Starr",
+      "John Lennon",
+      "George Harrison"
+    ]
+  },
+  {
+    "question": "Where did the British Boy Band &quot;Bros&quot; come from?",
+    "answer": "Camberley",
+    "incorrect_answers": [
+      "Guildford",
+      "Aldershot",
+      "Bagshot"
+    ]
+  },
+  {
+    "question": "Who was walking like an Egyptian in 1981?",
+    "answer": "The Bangles",
+    "incorrect_answers": [
+      "R.E.M.",
+      "The Ocean Blue",
+      "The Connells"
+    ]
+  },
+  {
+    "question": "&#039;74&ndash;&#039;75 is a 1993 single from the album Ring by what American band?",
+    "answer": "The Connells",
+    "incorrect_answers": [
+      "R.E.M.",
+      "The Ocean Blue",
+      "The Bangles"
+    ]
+  },
+  {
+    "question": "Which country does the electronic music duo &quot;The Knife&quot; originate from?",
+    "answer": "Sweden",
+    "incorrect_answers": [
+      "Finland",
+      "Denmark",
+      "Norway"
+    ]
+  },
+  {
+    "question": "Who performed the guitar solo on Michael Jackson&#039;s hit &quot;Beat It&quot;?",
+    "answer": "Eddie Van Halen",
+    "incorrect_answers": [
+      "Steve Vai",
+      "Kirk Hammett",
+      "Zakk Wylde"
+    ]
+  },
+  {
+    "question": "What was Britney Spears&#039; debut single?",
+    "answer": "...Baby One More Time",
+    "incorrect_answers": [
+      "Oops!... I Did It Again",
+      "(You Drive Me) Crazy",
+      "Toxic"
+    ]
+  },
+  {
+    "question": "What was the name of Pink Floyd&#039;s first studio album?",
+    "answer": "The Piper at the Gates of Dawn",
+    "incorrect_answers": [
+      "Ummagumma",
+      "More",
+      "Atom Heart Mother"
+    ]
+  },
+  {
+    "question": "&quot;Lift Your Spirit&quot; is an album by which artist?",
+    "answer": "Aloe Blacc",
+    "incorrect_answers": [
+      "Lena Meyer-Landrut",
+      "Stevie Wonder",
+      "Taylor Swift"
+    ]
+  },
+  {
+    "question": "Which of the following music bands is not from Finland?",
+    "answer": "Sabaton",
+    "incorrect_answers": [
+      "Apocalyptica",
+      "Waltari",
+      "Lordi"
+    ]
+  },
+  {
+    "question": "What was Radiohead&#039;s first album?",
+    "answer": "Pablo Honey",
+    "incorrect_answers": [
+      "The Bends",
+      "Kid A",
+      "A Moon Shaped Pool"
+    ]
+  },
+  {
+    "question": "What was The Velvet Underground&#039;s first album called?",
+    "answer": "The Velvet Underground &amp; Nico",
+    "incorrect_answers": [
+      "Loaded",
+      "The Velvet Underground",
+      "White Light / White Heat"
+    ]
+  },
+  {
+    "question": "Which popular rock band has a one-armed drummer?",
+    "answer": "Def Leppard",
+    "incorrect_answers": [
+      "The Beatles",
+      "Lynyrd Skynyrd",
+      "Foreigner"
+    ]
+  },
+  {
+    "question": "EDM producer Marshmello performs live wearing clothes and a marshmallow mask of what colour?",
+    "answer": "White",
+    "incorrect_answers": [
+      "Black",
+      "Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "question": "EDM record label Monstercat is based in which country?",
+    "answer": "Canada",
+    "incorrect_answers": [
+      "United States",
+      "Australia",
+      "United Kingdom"
+    ]
+  },
+  {
+    "question": "The &#039;In the Flesh&#039; tour was used in support of what Pink Floyd album?",
+    "answer": "Animals",
+    "incorrect_answers": [
+      "The Wall",
+      "Wish You Were Here",
+      "The Final Cut"
+    ]
+  },
+  {
+    "question": "3 members of 2 Live Crew were arrested for playing songs from their album, As Nasty As They Wanna Be, live.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which of these is NOT a song on The Beatles&#039; 1968 self titled album, also known as the White album?",
+    "answer": "Being For The Benefit Of Mr. Kite!",
+    "incorrect_answers": [
+      "Why Don&#039;t We Do It in the Road?",
+      "Everybody&#039;s Got Something to Hide Except Me and My Monkey",
+      "The Continuing Story of Bungalow Bill"
+    ]
+  },
+  {
+    "question": "What is the first track on Kanye West&#039;s 808s &amp; Heartbreak?",
+    "answer": "Say You Will",
+    "incorrect_answers": [
+      "Welcome to Heartbreak",
+      "Street Lights",
+      "Heartless"
+    ]
+  },
+  {
+    "question": "From which country does the piano originate?",
+    "answer": "Italy",
+    "incorrect_answers": [
+      "Germany",
+      "Austria",
+      "France"
+    ]
+  },
+  {
+    "question": "Which of these languages was NOT included in the 2016 song &quot;Don&#039;t Mind&quot; by Kent Jones?",
+    "answer": "Portuguese",
+    "incorrect_answers": [
+      "Japanese",
+      "French",
+      "Spanish"
+    ]
+  },
+  {
+    "question": "Which country is singer Kyary Pamyu Pamyu from?",
+    "answer": "Japan",
+    "incorrect_answers": [
+      "South Korea",
+      "China",
+      "Vietnam"
+    ]
+  }
+]
+
+
+
+
+
+
+
+[
+  {
+    "question": "Chino Moreno is the lead singer of which alternative metal band?",
+    "answer": "Deftones",
+    "incorrect_answers": [
+      "Tool",
+      "Korn",
+      "Type O Negative"
+    ]
+  },
+  {
+    "question": "What is the name of the song by Beyonc&eacute; and Alejandro Fern&aacute;ndez released in 2007?",
+    "answer": "Amor Gitano",
+    "incorrect_answers": [
+      "La ultima vez",
+      "Rocket",
+      "Hasta Dondes Estes"
+    ]
+  },
+  {
+    "question": "What was the last Aphex Twin album released before his decade-long hiatus?",
+    "answer": "Drukqs",
+    "incorrect_answers": [
+      "Windowlicker",
+      "Syro",
+      "Collected Ambient Works 85-92"
+    ]
+  },
+  {
+    "question": "Which Death Grips album is the only one to feature a band member?",
+    "answer": "No Love Deep Web",
+    "incorrect_answers": [
+      "Bottomless Pit",
+      "The Money Store",
+      "The Powers That B"
+    ]
+  },
+  {
+    "question": "Which of these artists did NOT feature in the fitfh studio album &quot;Humanz&quot; by British virtual band Gorillaz?",
+    "answer": "Snoop Dogg",
+    "incorrect_answers": [
+      "Vince Staples",
+      "Pusha T",
+      "Danny Brown"
+    ]
+  },
+  {
+    "question": "Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?",
+    "answer": "Aero Deck",
+    "incorrect_answers": [
+      "Textuell",
+      "Panorama",
+      "Do While"
+    ]
+  },
+  {
+    "question": "Which of Michael Jackson&#039;s albums sold the most copies?",
+    "answer": "Thriller",
+    "incorrect_answers": [
+      "Dangerous",
+      "Bad",
+      "Off the Wall"
+    ]
+  },
+  {
+    "question": "Who designed the album cover for True Romance, an album by Estelle?",
+    "answer": "Rebecca Sugar",
+    "incorrect_answers": [
+      "Matt Burnett",
+      "Ian Jones Quartey",
+      "Ben Leven"
+    ]
+  },
+  {
+    "question": "What is the official name of Prince&#039;s backing band?",
+    "answer": "The Revolution",
+    "incorrect_answers": [
+      "The Paupers",
+      "The Wailers",
+      "The Heartbreakers"
+    ]
+  },
+  {
+    "question": "What year did Dire Straits&#039;s Song &quot;Money for Nothing&quot; release?",
+    "answer": "1985",
+    "incorrect_answers": [
+      "1973",
+      "1980",
+      "1991"
+    ]
+  },
+  {
+    "question": "Who recorded the 1975 album &#039;Captain Fantastic and the Brown Dirt Cowboy&#039;?",
+    "answer": "Elton John",
+    "incorrect_answers": [
+      "John Denver",
+      "Billy Joel",
+      "Joe Cocker"
+    ]
+  },
+  {
+    "question": "Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume &amp; Chet Faker?",
+    "answer": "Left Alone",
+    "incorrect_answers": [
+      "What About Us",
+      "This Song Is Not About A Girl",
+      "Drop The Game"
+    ]
+  },
+  {
+    "question": "What was the name of the hip hop group Kanye West was a member of in the late 90s?",
+    "answer": "The Go-Getters",
+    "incorrect_answers": [
+      "The Jumpers",
+      "The Kickstarters",
+      "The Beat-Busters"
+    ]
+  },
+  {
+    "question": "In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?",
+    "answer": "Compton",
+    "incorrect_answers": [
+      "Detroit",
+      "New York",
+      "Baltimore"
+    ]
+  },
+  {
+    "question": "When did the rapper Eazy-E die?",
+    "answer": "March 26, 1995",
+    "incorrect_answers": [
+      "July 11, 1992",
+      "February 14, 1993",
+      "October 21, 1994"
+    ]
+  },
+  {
+    "question": "On which Beatles album would you find the song &#039;Eleanor Rigby&#039;?",
+    "answer": "Revolver",
+    "incorrect_answers": [
+      "Help!",
+      "Rubber Soul",
+      "Abbey Road"
+    ]
+  },
+  {
+    "question": "What is the English title of the vaporwave track &quot;リサフランク420 / 現代のコンピュー&quot; by Macintosh Plus (Vektroid)?",
+    "answer": "Lisa Frank 420 / Modern Computing",
+    "incorrect_answers": [
+      "Smoke Weed 420 / Everyday",
+      "Make Your Move 420 / My Mind",
+      "It&#039;s All In Your Head 420 / Understand"
+    ]
+  },
+  {
+    "question": "What is the British term for a 64th note?",
+    "answer": "Hemidemisemiquaver",
+    "incorrect_answers": [
+      "Semihemidemisemiquaver",
+      "Semiquaver",
+      "Demisemiquaver"
+    ]
+  },
+  {
+    "question": "Who won the 1989 Drum Corps International championships?",
+    "answer": "Santa Clara Vanguard",
+    "incorrect_answers": [
+      "Blue Devils",
+      "The Academy",
+      "The Bluecoats"
+    ]
+  },
+  {
+    "question": "Who was not in the band &quot;The Smiths&quot;?",
+    "answer": "Martin Chambers",
+    "incorrect_answers": [
+      "Morrissey",
+      "Andy Rourke",
+      "Mike Joyce"
+    ]
+  },
+  {
+    "question": "What is the stage name of New Zealand singer Phillipa &quot;Pip&quot; Brown?",
+    "answer": "Ladyhawke",
+    "incorrect_answers": [
+      "Lorde",
+      "Kesha",
+      "Anika Moa"
+    ]
+  },
+  {
+    "question": "Which of these aliases has NOT been used by electronic musician Aphex Twin?",
+    "answer": "Burial",
+    "incorrect_answers": [
+      "Caustic Window",
+      "Bradley Strider",
+      "GAK"
+    ]
+  },
+  {
+    "question": "What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?",
+    "answer": "The Black Mages",
+    "incorrect_answers": [
+      "The Final Fantasies",
+      "The Espers",
+      "The Rock Summoners"
+    ]
+  },
+  {
+    "question": "Who had a 1981 hit with the song &quot;Japanese Boy&quot;?",
+    "answer": "Aneka",
+    "incorrect_answers": [
+      "Toyah",
+      "Sandra",
+      "Madonna"
+    ]
+  },
+  {
+    "question": "Which year was the album &quot;Floral Shoppe&quot; by Macintosh Plus released?",
+    "answer": "2011",
+    "incorrect_answers": [
+      "2014",
+      "2013",
+      "2012"
+    ]
+  },
+  {
+    "question": "A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?",
+    "answer": "Snare Drum",
+    "incorrect_answers": [
+      "Cow Bell",
+      "Bass Drum",
+      "Maraca"
+    ]
+  },
+  {
+    "question": "Which member of the English band &quot;The xx&quot; released their solo album &quot;In Colour&quot; in 2015?",
+    "answer": "Jamie xx",
+    "incorrect_answers": [
+      "Romy Madley Croft",
+      "Oliver Sim",
+      "Baria Qureshi"
+    ]
+  },
+  {
+    "question": "What song originally performed by The Bee Gees in 1978 had a cover version by Steps 20 years later?",
+    "answer": "Tragedy",
+    "incorrect_answers": [
+      "Night Fever",
+      "Stayin&#039; Alive",
+      "You Should Be Dancing"
+    ]
+  },
+  {
+    "question": "Which of these songs is not by Tatsuro Yamashita?",
+    "answer": "Lucky Lady Feel So Good ",
+    "incorrect_answers": [
+      "Merry-Go Round",
+      "Let&#039;s Dance Baby",
+      "Love Talkin&#039;"
+    ]
+  },
+  {
+    "question": "Who was the original drummer for The Beatles?",
+    "answer": "Tommy Moore",
+    "incorrect_answers": [
+      "Ringo Starr",
+      "Stuart Sutcliffe",
+      "Pete Best"
+    ]
+  },
+  {
+    "question": "Which company did the animation for Peter Gabriel&#039;s Video Sledgehammer (1986)?",
+    "answer": "Aardman Animations",
+    "incorrect_answers": [
+      "HIT Entertainment",
+      "Illumination Entertainment",
+      "VIZ Media"
+    ]
+  },
+  {
+    "question": "The band STRFKR was also briefly known as Pyramiddd.",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Who is a pioneer of &quot;Minimal Music&quot; in 1960s?",
+    "answer": "Steve Reich",
+    "incorrect_answers": [
+      "Wolfgang Amadeus Mozart",
+      "Brian Eno",
+      "Sigur R&oacute;s"
+    ]
+  },
+  {
+    "question": "Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
+    "answer": "&quot;A rainy Lithuanian / Is dancing as an Indian&quot;",
+    "incorrect_answers": [
+      "&quot;Fly away on, my zephyr / I feel it more than ever&quot;",
+      "&quot;And I liked the dimple in your chin / Your pale blue eyes&quot;",
+      "&quot;You used to be so warm and affectionate...but now you&#039;re quick to get into your regret&quot;"
+    ]
+  },
+  {
+    "question": "Which album was released by Kanye West in 2013?",
+    "answer": "Yeezus",
+    "incorrect_answers": [
+      "My Beautiful Dark Twisted Fantasy",
+      "The Life of Pablo",
+      "Watch the Throne"
+    ]
+  },
+  {
+    "question": "Which Elton John hit starts with the line &quot;When are you gonna come down&quot;?",
+    "answer": "Goodbye Yellow Brick Road",
+    "incorrect_answers": [
+      "Rocket Man",
+      "Bennie and the Jets",
+      "Crocodile Rock"
+    ]
+  },
+  {
+    "question": "The song Scatman&#039;s World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).",
+    "answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which band is the longest active band in the world with no breaks or line-up changes?",
+    "answer": "U2",
+    "incorrect_answers": [
+      "Radiohead",
+      "Rush",
+      "Rolling Stones"
+    ]
+  },
+  {
+    "question": "Pamina and Papageno are characters in what Mozart opera?",
+    "answer": "The Magic Flute",
+    "incorrect_answers": [
+      "The Marriage of Figaro",
+      "The Impresario",
+      "The Goose of Cairo"
+    ]
+  },
+  {
+    "question": "Where was Nicki Minaj born?",
+    "answer": "Trinidad and Tobago",
+    "incorrect_answers": [
+      "Haiti",
+      "Saint Lucia",
+      "Grenada"
+    ]
+  },
+  {
+    "question": "What year was Min Yoongi from South Korea boy band &quot;BTS&quot; born in?",
+    "answer": "1993",
+    "incorrect_answers": [
+      "1992",
+      "1995",
+      "1994"
+    ]
+  },
+  {
+    "question": "How many members are there in the idol group &quot;&micro;&#039;s&quot;?",
+    "answer": "9",
+    "incorrect_answers": [
+      "48",
+      "6",
+      "3"
+    ]
+  },
+  {
+    "question": "&quot;All the Boys&quot; by Panic! At the Disco was released as a bonus track on what album?",
+    "answer": "Too Weird To Live, Too Rare To Die!",
+    "incorrect_answers": [
+      "A Fever You Can&#039;t Sweat Out",
+      "Death Of A Bachelor",
+      "Vices &amp; Virtues"
+    ]
+  },
+  {
+    "question": "Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?",
+    "answer": "Dog Blood",
+    "incorrect_answers": [
+      "Jack &Uuml;",
+      "What So Not",
+      "Noisia"
+    ]
+  },
+  {
+    "question": "What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?",
+    "answer": "Entra&ntilde;as",
+    "incorrect_answers": [
+      "&amp;&amp;&amp;&amp;&amp;&amp;",
+      "Sheep",
+      "Xen"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
+    "answer": "Limitless Fury",
+    "incorrect_answers": [
+      "Let The Sparks Fly",
+      "Down",
+      "Give Up The Ghost"
+    ]
+  },
+  {
+    "question": "Which of these songs is NOT included in the Suicide Squad OST?",
+    "answer": "Skies on Fire - AC/DC",
+    "incorrect_answers": [
+      "Heathens - Twenty One Pilots",
+      "Without Me - Eminem",
+      "Fortunate Son - Creedence Clearwater Revival"
+    ]
+  },
+  {
+    "question": "Which of these songs was released in 1996?",
+    "answer": "The Smashing Pumpkins - &quot;1979&quot;",
+    "incorrect_answers": [
+      "Prince - &quot;1999&quot;",
+      "James Blunt - &quot;1973&quot;",
+      "David Bowie - &quot;1984&quot;"
+    ]
+  },
+  {
+    "question": "In the Panic! At the Disco&#039;s song &quot;Nothern Downpour&quot;, which lyric follows &#039;I know the world&#039;s a broken bone&#039;.",
+    "answer": "&quot;So melt your headaches call it home&quot;",
+    "incorrect_answers": [
+      "&quot;So sing your song until you&#039;re home&quot;",
+      "&quot;So let them know they&#039;re on their own&quot;",
+      "&quot;So start a fire in their cold stone&quot;"
+    ]
+  },
+  {
+    "question": "Which of these artists did NOT remix the song &quot;Faded&quot; by Alan Walker?",
+    "answer": "Skrillex",
+    "incorrect_answers": [
+      "Ti&euml;sto",
+      "Slushii",
+      "Dash Berlin"
+    ]
+  }
+]

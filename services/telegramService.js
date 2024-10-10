@@ -1,7 +1,8 @@
 require('dotenv').config();
 const TelegramBot = require('node-telegram-bot-api');
 const WallapopScraper = require('./wallapopScraper');
-const TicTacToeGame = require('./tictactoeGame'); // Importar la clase del juego
+const TicTacToeGame = require('./tictactoeGame'); 
+const TriviaService = require('./triviaService');
 
 class TelegramService {
   constructor() {
@@ -16,6 +17,15 @@ class TelegramService {
 
     // Enviar mensaje de inicio directamente al chat
     this.sendStartupMessage();
+
+    // Crear instancia del servicio de trivia
+    this.triviaService = new TriviaService();
+
+    // Manejador para el comando /trivia
+    this.bot.onText(/\/trivia/, async (msg) => {
+      const chatId = msg.chat.id;
+      await this.startTrivia(chatId);
+    });
 
     this.urlMap = {
       // Mapa de URLs de scraping
@@ -40,7 +50,9 @@ class TelegramService {
       🔧 /ayuda •••••••• Comando para sacar la ayuda      
       🌐 /urlscrap ••••• Para pasarle una URL para scrapear  
       🛠️ /scrap •••••••• Despliega opciones para scrapear    
-      👋 /saluda ••••••• Para saludar al usuario            
+      👋 /saluda ••••••• Para saludar al usuario
+      👾 /tictactoe ••••••• para tres en raya
+      👾 /trivia ••••••• Para preguntas de trivia
 
       
       😊 ¡Escribeme! Estoy aquí para ayudarte. 😊
@@ -60,6 +72,7 @@ class TelegramService {
         { text: "Play Station 4", id: "play_station_4" },
         { text: "DS", id: "ds" },
       ];
+
 
       // Crear botones con callback_data
       const buttons = [
@@ -160,6 +173,92 @@ class TelegramService {
       }
     });
   }
+
+  // Función para mezclar un array
+  shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]]; // Intercambiar
+    }
+    return array;
+  }
+
+  async startTrivia(chatId) {
+    const question = this.triviaService.getRandomQuestion();
+
+    // Combina las respuestas incorrectas y la correcta en un solo array
+    const options = [question.correct_answer, ...question.incorrect_answers];
+
+    // Mezcla las opciones para que estén en un orden aleatorio
+    const shuffledOptions = this.shuffle(options);  // Usa this.shuffle para mezclar
+    // Crea un array de botones
+    const showOptions = shuffledOptions.map((option) => ({
+      text: option,
+      callback_data: option, // Usamos la opción como callback_data
+    }));
+
+    // Divide los botones en filas (puedes tener hasta 2 o 3 opciones por fila)
+    const inlineKeyboard = [];
+    const rowSize = 2; // Puedes ajustar el tamaño de la fila si lo deseas
+
+    for (let i = 0; i < showOptions.length; i += rowSize) {
+      inlineKeyboard.push(showOptions.slice(i, i + rowSize));
+    }
+
+    // Envía la pregunta y las opciones al usuario
+    await this.bot.sendMessage(chatId, question.question, {
+      reply_markup: {
+        inline_keyboard: inlineKeyboard,
+      },
+    });
+
+    // Manejar la respuesta del usuario al presionar un botón
+    this.bot.once('callback_query', async (callbackQuery) => {
+      const userAnswer = callbackQuery.data; // La opción seleccionada por el usuario
+      const isCorrect = this.triviaService.checkAnswer(userAnswer, question.correct_answer);
+
+      // Respuesta del bot según la respuesta del usuario
+      if (isCorrect) {
+        await this.bot.sendMessage(chatId, "¡Correcto! 🎉");
+      } else {
+        await this.bot.sendMessage(chatId, `Incorrecto. La respuesta correcta era ${question.correct_answer}.`);
+      }
+
+      // Enviar botones para preguntar si quieren jugar otra vez
+      const buttonsYesNo = [
+        [
+          { text: "Sí", callback_data: "yes" },
+          { text: "No", callback_data: "no" }
+        ],
+      ];
+
+      // Enviar mensaje con los botones
+      await this.bot.sendMessage(chatId, "¿Quieres otra pregunta?", {
+        reply_markup: {
+          inline_keyboard: buttonsYesNo,
+        },
+      });
+
+      // Manejar la respuesta del usuario a la pregunta de si quieren otra pregunta
+      this.bot.once('callback_query', async (callbackQuery) => {
+        const action = callbackQuery.data;
+
+        if (action === 'yes') {
+          await this.startTrivia(chatId);
+        } else {
+          await this.bot.sendMessage(chatId, "Gracias por jugar!"); // Mensaje de despedida
+        }
+
+        // Acknowledge the callback query to remove the loading state
+        this.bot.answerCallbackQuery(callbackQuery.id);
+      });
+
+      // Acknowledge the callback query to remove the loading state
+      this.bot.answerCallbackQuery(callbackQuery.id);
+    });
+  }
+
+
 
   // Método para enviar mensajes al chat
   async sendMessage(chatId, text) {
