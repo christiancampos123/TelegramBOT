@@ -1,0 +1,17 @@
+[
+  {
+    "question": "¿Cuál es la capital de Francia?",
+    "options": ["A) Londres", "B) Berlín", "C) París", "D) Madrid"],
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuánto es 2 + 2?",
+    "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+    "answer": "B"
+  },
+  {
+    "question": "¿Quién escribió 'Cien años de soledad'?",
+    "options": ["A) Gabriel García Márquez", "B) Mario Vargas Llosa", "C) Julio Cortázar", "D) Pablo Neruda"],
+    "answer": "A"
+  }
+]

@@ -1,20 +1,24 @@
-// Importar dotenv para manejar variables de entorno
 require('dotenv').config();
-const TelegramBot = require('node-telegram-bot-api'); // Asegúrate de tener esta dependencia
-const WallapopScraper = require('./wallapopScraper'); // Verifica que esta línea esté correcta
+const TelegramBot = require('node-telegram-bot-api');
+const WallapopScraper = require('./wallapopScraper');
+const TicTacToeGame = require('./tictactoeGame'); // Importar la clase del juego
 
-// Clase TelegramService
 class TelegramService {
   constructor() {
-    // Reemplaza el valor con el token de Telegram que recibes de @BotFather
     this.token = process.env.telegramToken;
-    this.bot = new TelegramBot(this.token, { polling: true }); // Cambiar a true para escuchar mensajes
+    this.bot = new TelegramBot(this.token, { polling: true });
+
+    // Mapa de juegos activos por chatId
+    this.games = {};
+
+    // Array para almacenar chatIds de usuarios
+    this.chatIds = [];
 
     // Enviar mensaje de inicio directamente al chat
     this.sendStartupMessage();
 
-    // Mapa de IDs a URLs
     this.urlMap = {
+      // Mapa de URLs de scraping
       game_boy: "https://es.wallapop.com/app/search?category_ids=24200&object_type_ids=10088&keywords=game%20boy&latitude=39.57825&longitude=2.63204&filters_source=default_filters",
       play_station_3: "https://es.wallapop.com/app/search?category_ids=24200&object_type_ids=10088&keywords=play%20station%203&latitude=39.57825&longitude=2.63204&filters_source=default_filters",
       nintendo_ds: "https://es.wallapop.com/app/search?category_ids=24200&object_type_ids=10088&keywords=nintendo%20ds&latitude=39.57825&longitude=2.63204&filters_source=default_filters",
@@ -22,17 +26,9 @@ class TelegramService {
       ds: "https://es.wallapop.com/app/search?category_ids=24200&object_type_ids=10088&keywords=ds&latitude=39.57825&longitude=2.63204&filters_source=default_filters",
     };
 
-    // Configurar el manejador para el comando /saluda
     this.bot.onText(/\/saluda/, async (msg) => {
       const chatId = msg.chat.id; // Obtener el ID del chat
       await this.sendMessage(chatId, "¡Hola! ¿Cómo estás?"); // Responder al saludo
-    });
-
-    this.bot.on('message', async (msg) => {
-      if (msg.text && !msg.text.startsWith('/')) {
-        const chatId = msg.chat.id; // Obtener el ID del chat
-        await this.sendMessage(chatId, "No te entiendo, usa /ayuda para usar comandos que si entiendo.");
-      }
     });
 
     this.bot.onText(/\/ayuda/, async (msg) => {
@@ -42,7 +38,7 @@ class TelegramService {
 
 
       🔧 /ayuda •••••••• Comando para sacar la ayuda      
-      🌐 /scrapurl ••••• Para pasarle una URL para scrapear  
+      🌐 /urlscrap ••••• Para pasarle una URL para scrapear  
       🛠️ /scrap •••••••• Despliega opciones para scrapear    
       👋 /saluda ••••••• Para saludar al usuario            
 
@@ -88,15 +84,64 @@ class TelegramService {
       });
     });
 
-    // Configurar el manejador para los botones
+    // Configurar el manejador para el comando /tictactoe
+    this.bot.onText(/\/tictactoe/, async (msg) => {
+      const chatId = msg.chat.id;
+
+      // Crear un nuevo juego para el chatId actual
+      if (!this.games[chatId]) {
+        this.games[chatId] = new TicTacToeGame(this.bot, chatId);
+        await this.bot.sendMessage(chatId, '¡Nuevo juego de tres en raya iniciado!');
+        this.games[chatId].displayBoard();
+      } else {
+        await this.bot.sendMessage(chatId, 'Ya hay un juego en progreso. Finaliza antes de iniciar otro.');
+      }
+    });
+
+    // Configurar el manejador para los movimientos del tres en raya
     this.bot.on('callback_query', async (callbackQuery) => {
       const chatId = callbackQuery.message.chat.id;
-      const selectedId = callbackQuery.data; // El ID asociado al botón presionado
-      const urlToScrap = this.urlMap[selectedId]; // Obtener la URL correspondiente
+      const data = callbackQuery.data;
+
+      // Verificar si el callback pertenece a un movimiento del tres en raya
+      if (data.startsWith('move') && this.games[chatId]) {
+        const [action, row, col] = data.split('_');
+        this.games[chatId].makeMove(parseInt(row), parseInt(col));
+        return; // Salir del callback para evitar que continúe con el flujo de scraping
+      }
+
+      // Manejar las opciones de reinicio y salida del juego tres en raya
+      if (this.games[chatId] && (data === 'restart_game' || data === 'exit_game')) {
+        if (data === 'restart_game') {
+          this.games[chatId].resetBoard(); // Reiniciar el tablero
+          this.games[chatId].displayBoard(); // Mostrar el nuevo tablero
+        } else if (data === 'exit_game') {
+          await this.bot.sendMessage(chatId, 'Gracias por jugar. ¡Hasta la próxima!');
+          delete this.games[chatId]; // Eliminar el juego activo para este chatId
+        }
+        return; // Salir del callback para evitar que continúe con el flujo de scraping
+      }
+
+      // Si el callback no pertenece a tres en raya, procesar como scraping
+      if (this.urlMap[data]) {
+        const urlToScrap = this.urlMap[data];
+        await this.sendMessage(chatId, "Iniciando el proceso de scraping...");
+        try {
+          const result = await WallapopScraper.scrapeUrl(urlToScrap);
+          const formattedMessage = this.formatScrapingResults(result);
+          await this.sendMessage(chatId, formattedMessage);
+        } catch (error) {
+          await this.sendMessage(chatId, `Error al ejecutar el scraping: ${error.message}`);
+        }
+      }
+    });
+
+    this.bot.onText(/\/urlscrap (.+)/, async (msg, match) => {
+      const chatId = msg.chat.id;
+      const urlToScrap = match[1];
 
       await this.sendMessage(chatId, "Iniciando el proceso de scraping...");
 
-      // Ejecutar el scraping de la URL
       try {
         const result = await WallapopScraper.scrapeUrl(urlToScrap);
         const formattedMessage = this.formatScrapingResults(result);
@@ -106,51 +151,35 @@ class TelegramService {
       }
     });
 
-    // Configurar el manejador para el comando /scrapurl
-    this.bot.onText(/\/scrapurl (.+)/, async (msg, match) => {
-      const chatId = msg.chat.id; // Obtener el ID del chat
-      const urlToScrap = match[1]; // Obtener la URL pasada como argumento
-
-      await this.sendMessage(chatId, "Iniciando el proceso de scraping...");
-
-      // Ejecutar el scraping de la URL
-      try {
-        const result = await WallapopScraper.scrapeUrl(urlToScrap);
-        const formattedMessage = this.formatScrapingResults(result);
-        await this.sendMessage(chatId, formattedMessage);
-      } catch (error) {
-        await this.sendMessage(chatId, `Error al ejecutar el scraping: ${error.message}`);
+    // Almacenar chatId cuando se recibe un mensaje
+    this.bot.on('message', (msg) => {
+      const chatId = msg.chat.id;
+      if (!this.chatIds.includes(chatId)) {
+        this.chatIds.push(chatId); // Agregar el chatId al array
+        this.sendWelcomeMessage(chatId); // Enviar mensaje de bienvenida
       }
     });
   }
 
-  // Método para enviar un mensaje
-  async sendMessage(chatId, message) {
-    try {
-      await this.bot.sendMessage(chatId, message);
-      console.log('Mensaje enviado:', message);
-    } catch (error) {
-      console.error('Error al enviar el mensaje:', error);
-    }
+  // Método para enviar mensajes al chat
+  async sendMessage(chatId, text) {
+    return this.bot.sendMessage(chatId, text);
   }
 
-  // Método para enviar mensaje de inicio
-  async sendStartupMessage() {
-    const chatId = process.env.chatId; // Asegúrate de que chatId esté en tu archivo .env
-    await this.sendMessage(chatId, "¡Hey, estoy listo para las instrucciones!");
+  // Método para enviar un mensaje de inicio
+  sendStartupMessage() {
+    console.log('El bot se ha iniciado y está listo para recibir mensajes.'); // Mensaje en la consola
+  }
+
+  // Método para enviar un mensaje de bienvenida
+  async sendWelcomeMessage(chatId) {
+    await this.sendMessage(chatId, "¡Bienvenido al bot de Telegram! Estoy preparado para recibir mensajes. Usa /ayuda para ver los comandos disponibles.");
   }
 
   // Método para formatear los resultados del scraping
   formatScrapingResults(results) {
-    if (!Array.isArray(results) || results.length === 0) {
-      return "No se encontraron resultados.";
-    }
-
-    return results.map(item => {
-      return `**TITULO:** ${item.title}\n**PRECIO:** ${item.price}\n**DESCRIPCION:** ${item.description}\n**URL:** ${item.url}\n`;
-    }).join("\n");
+    return results.map(item => `${item.title}\n${item.price} €\n${item.description}\n${item.url}`).join('\n\n');
   }
 }
 
-// Exportar el servicio para usarlo en otros módulos
 module.exports = TelegramService;
